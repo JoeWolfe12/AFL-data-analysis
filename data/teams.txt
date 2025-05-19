@@ -1,0 +1,18 @@
+19881,Melbourne,ME,4,VIC
+19882,Sydney,SY,1,NSW
+19974,Carlton,CA,4,VIC
+20065,Richmond,RI,4,VIC
+5,Brisbane Lions,BL,2,QLD
+20066,Gold Coast,GC,3,QLD
+20157,GW,GW,188,NSW
+20158,Collingwood,CW,4,VIC
+20433,Hawthorn,HW,4,VIC
+20434,Essendon,ES,14,VIC
+20525,North Melbourne,NM,14,VIC
+20617,Adelaide,AD,10,SA
+20709,St Kilda,SK,14,VIC
+20710,Geelong,GE,7,VIC
+20802,Western Bulldogs,WB,14,VIC
+20893,Port Adelaide,PA,10,SA
+20894,West Coast,WC,11,WA
+20986,Fremantle,FR,11,WA
